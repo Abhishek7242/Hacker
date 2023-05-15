@@ -1,0 +1,27 @@
+#img1{
+    height: 400px;
+    width: 100%;
+
+}
+#img0{
+    height: 400px;
+    width: 100%;
+
+}
+#img2{
+    height: 400px;
+    width: 100%;
+
+}
+
+#downloader{
+
+    width: 44vw;
+    height: 400px;
+}
+
+#download{
+    top: -30px;
+    position: relative;
+    right: 10rem;
+}
